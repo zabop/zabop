@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Here I create repository groups to help me find stuff.
 
-- Level0 power pole search
+- Level0-focused power pole search
 	- https://github.com/zabop/partition
 	- https://github.com/zabop/image-marker
 
