@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **zabop/zabop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here I create repository groups to help me find stuff.
+
+- Level0 power pole search
+	- https://github.com/zabop/partition
+	- https://github.com/zabop/image-marker
+
+- QGIS helpers
+	- https://github.com/zabop/merqantile
+	- https://github.com/zabop/tilevis
+	- https://github.com/zabop/ndveye
