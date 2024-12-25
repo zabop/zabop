@@ -19,6 +19,10 @@ Here I create repository groups to help me find stuff.
 	- https://github.com/zabop/partition
 	- https://github.com/zabop/image-marker
 
+- OSM analytics
+	- https://github.com/zabop/power-map-state
+	- https://github.com/zabop/chi
+
 - QGIS helpers
 	- https://github.com/zabop/merqantile
 	- https://github.com/zabop/tilevis
